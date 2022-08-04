@@ -12,4 +12,4 @@ dconf load /org/gnome/terminal/ < terminal-nord-theme.txt
 
 ---
 
-![Thumbnail](https://raw.githubusercontent.com/george-martinec/terminal-nord-theme/main/terminal.png)
+![Terminal](https://github.com/george-martinec/terminal-nord-theme/blob/main/terminal.png)
